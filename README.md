@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeeBy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CodeeBy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeeBy&show_icons=true&locale=en&theme=tokyonight" alt="CodeeBy" /></p>
-
 <p> <img src="https://github-readme-stats.vercel.app/api?username=CodeeBy&show_icons=true&theme=gotham" alt="CodeeBy" />
