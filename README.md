@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeeBy&show_icons=true&locale=en&theme=tokyonight" alt="CodeeBy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeeBy&&theme=tokyonight" alt="CodeeBy" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=CodeeBy&show_icons=true&theme=gotham" alt="CodeeBy" />
